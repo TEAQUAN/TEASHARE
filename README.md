@@ -20,3 +20,7 @@ A lightweight Python desktop app that lets you share a local folder over HTTP.
 - Works only on your local network (LAN/Wi-Fi)
 - No password protection (anyone with the link can access)
 
+
+## 
+compiled application ready for use is in dist folder
+
